@@ -1,0 +1,24 @@
+{
+  "name": "react-native-in-app-events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SIDDHANTJOHARI/GarudDwar.git"
+  },
+  "keywords": [
+    "Events",
+    "React-Native",
+    "Tracking"
+  ],
+  "author": "SIDDHANT JOHARI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SIDDHANTJOHARI/GarudDwar/issues"
+  },
+  "homepage": "https://github.com/SIDDHANTJOHARI/GarudDwar#readme"
+}

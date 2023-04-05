@@ -1,0 +1,10 @@
+{
+    "trackLifeCycleEvents":true,
+    "trackNavigations":true,
+    "navigationRef":"null",
+    "samplingRate":1.0,
+    "webhookURL":"",
+    "key":"",
+    "user":{},
+    "beforeSend":"null"
+}
